@@ -14,7 +14,6 @@ DAVANTE Music es una aplicación de música en streaming inspirada en Spotify y 
 
 ## Contenido
 
-- [docs](docs): los cuatro apartados de la tarea (selección, características, documentación inicial y requisitos).
 - [Presentación en PDF](presentacion/DAVANTE-Music-presentacion.pdf).
 
 ## Vídeo
