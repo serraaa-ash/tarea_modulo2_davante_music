@@ -1,7 +1,7 @@
 # DAVANTE Music
 
 **Tarea Módulo 2:** Reconocimiento de elementos en el desarrollo de un programa informático
-**Autor:** Antonio Serrano Hernández · DAM · Curso 2026-2027
+**Autor:** Antonio Serrano Hernández
 
 ## Qué es
 
